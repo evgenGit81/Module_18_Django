@@ -4,49 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10f17a4b-f20f-47c5-9b64-a6895696e10a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/UrbanDjango.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example1/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example1/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example1/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example1/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example1/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example1/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example2/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example2/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example2/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example2/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example2/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example2/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example3/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example3/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example3/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example3/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example3/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/example3/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task2/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="10f17a4b-f20f-47c5-9b64-a6895696e10a" name="Changes" comment="задание 18_2">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -113,6 +79,15 @@
       <option name="presentableId" value="Default" />
       <updated>1725885690101</updated>
     </task>
+    <task id="LOCAL-00001" summary="задание 18_2">
+      <option name="closed" value="true" />
+      <created>1725898758119</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725898758119</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,10 +95,20 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="задание 18_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="задание 18_2" />
   </component>
 </project>
