@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10f17a4b-f20f-47c5-9b64-a6895696e10a" name="Changes" comment="задание 18_2&#10;Добавлено приложение task2, папка templates с шаблонами для классового и функционального представления;">
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/bag.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/catalog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/second_task/class_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/second_task/class_template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/second_task/func_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/second_task/func_template.html" afterDir="false" />
-    </list>
+    <list default="true" id="10f17a4b-f20f-47c5-9b64-a6895696e10a" name="Changes" comment="задание 18_2&#10;Добавлено приложение task2, папка templates с шаблонами для классового и функционального представления;&#10;Задание 18_3&#10;Добавлено приложение task3. Закоментированы все записи, связанные с task2. Сделан трехстраничный сайт" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,7 +125,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725909674832</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="задание 18_2&#10;Добавлено приложение task2, папка templates с шаблонами для классового и функционального представления;&#10;Задание 18_3&#10;Добавлено приложение task3. Закоментированы все записи, связанные с task2. Сделан трехстраничный сайт">
+      <option name="closed" value="true" />
+      <created>1725986368866</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725986368866</updated>
+    </task>
+    <task id="LOCAL-00007" summary="задание 18_2&#10;Добавлено приложение task2, папка templates с шаблонами для классового и функционального представления;&#10;Задание 18_3&#10;Добавлено приложение task3. Закоментированы все записи, связанные с task2. Сделан трехстраничный сайт">
+      <option name="closed" value="true" />
+      <created>1725986467899</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725986467899</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +165,7 @@
     <MESSAGE value="задание 18_2" />
     <MESSAGE value="задание 18_2&#10;Добавлено приложение task2, папка templates с шаблонами для классового и функционального представления" />
     <MESSAGE value="задание 18_2&#10;Добавлено приложение task2, папка templates с шаблонами для классового и функционального представления;" />
-    <option name="LAST_COMMIT_MESSAGE" value="задание 18_2&#10;Добавлено приложение task2, папка templates с шаблонами для классового и функционального представления;" />
+    <MESSAGE value="задание 18_2&#10;Добавлено приложение task2, папка templates с шаблонами для классового и функционального представления;&#10;Задание 18_3&#10;Добавлено приложение task3. Закоментированы все записи, связанные с task2. Сделан трехстраничный сайт" />
+    <option name="LAST_COMMIT_MESSAGE" value="задание 18_2&#10;Добавлено приложение task2, папка templates с шаблонами для классового и функционального представления;&#10;Задание 18_3&#10;Добавлено приложение task3. Закоментированы все записи, связанные с task2. Сделан трехстраничный сайт" />
   </component>
 </project>
