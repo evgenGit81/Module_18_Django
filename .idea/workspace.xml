@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10f17a4b-f20f-47c5-9b64-a6895696e10a" name="Changes" comment="задание 18_2&#10;Добавлено приложение task2, папка templates с шаблонами для классового и функционального представления;&#10;Задание 18_3&#10;Добавлено приложение task3. Закоментированы все записи, связанные с task2. Сделан трехстраничный сайт" />
+    <list default="true" id="10f17a4b-f20f-47c5-9b64-a6895696e10a" name="Changes" comment="&#10;Задание 18_3&#10;Добавлено приложение task3. Закоментированы все записи, связанные с task2. Сделан трехстраничный сайт">
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/bag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/task3/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/task3/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/third_task/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/catalog.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,16 +46,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/hunter2/pythonProject/pythonProject/LearnUrban/Module_18/module_18/UrbanDjango/UrbanDjango",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/hunter2/pythonProject/pythonProject/LearnUrban/Module_18/module_18/UrbanDjango/UrbanDjango/templates/third_task&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/UrbanDjango/templates/third_task" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/UrbanDjango/templates/fourth_task" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="UrbanDjango" />
@@ -141,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725986467899</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&#10;Задание 18_3&#10;Добавлено приложение task3. Закоментированы все записи, связанные с task2. Сделан трехстраничный сайт">
+      <option name="closed" value="true" />
+      <created>1725986517611</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725986517611</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +193,7 @@
     <MESSAGE value="задание 18_2&#10;Добавлено приложение task2, папка templates с шаблонами для классового и функционального представления" />
     <MESSAGE value="задание 18_2&#10;Добавлено приложение task2, папка templates с шаблонами для классового и функционального представления;" />
     <MESSAGE value="задание 18_2&#10;Добавлено приложение task2, папка templates с шаблонами для классового и функционального представления;&#10;Задание 18_3&#10;Добавлено приложение task3. Закоментированы все записи, связанные с task2. Сделан трехстраничный сайт" />
-    <option name="LAST_COMMIT_MESSAGE" value="задание 18_2&#10;Добавлено приложение task2, папка templates с шаблонами для классового и функционального представления;&#10;Задание 18_3&#10;Добавлено приложение task3. Закоментированы все записи, связанные с task2. Сделан трехстраничный сайт" />
+    <MESSAGE value="&#10;Задание 18_3&#10;Добавлено приложение task3. Закоментированы все записи, связанные с task2. Сделан трехстраничный сайт" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;Задание 18_3&#10;Добавлено приложение task3. Закоментированы все записи, связанные с task2. Сделан трехстраничный сайт" />
   </component>
 </project>

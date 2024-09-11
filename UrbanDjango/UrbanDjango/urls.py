@@ -17,7 +17,8 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 # from task2.views import *
-from task3.views import *
+# from task3.views import *
+from task4.views import *
 from django.views.generic import TemplateView
 
 # urlpatterns = [
@@ -32,4 +33,5 @@ urlpatterns = [
     path('platform/', Platform.as_view(), name='platform'),
     path('platform/catalog/', catalog),
     path('platform/bag/', bag),
+    path('fmenu', fmenu)
 ]
