@@ -18,20 +18,36 @@ from django.contrib import admin
 from django.urls import path
 # from task2.views import *
 # from task3.views import *
-from task4.views import *
+# from task4.views import *
+from task5.views import *
 from django.views.generic import TemplateView
 
+
+## task2
 # urlpatterns = [
 #     path("admin/", admin.site.urls),
 #     path('', class_templ.as_view(), name='class_templ'),
 #     path('func_templ/', func_templ)
 # ]
 
+## task3, task4
+# urlpatterns = [
+#     path("admin/", admin.site.urls),
+#     path('platform/', Platform.as_view(), name='platform'),
+#     path('platform/catalog/', catalog),
+#     path('platform/bag/', bag),
+#     path('fmenu', fmenu)
+# ]
+
+##task5 html
+# urlpatterns = [
+#     path("admin/", admin.site.urls),
+#     path('registration', sign_up_by_html),
+#
+# ]
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path('platform/', Platform.as_view(), name='platform'),
-    path('platform/catalog/', catalog),
-    path('platform/bag/', bag),
-    path('fmenu', fmenu)
+    path('registration', sign_up_by_django),
+
 ]

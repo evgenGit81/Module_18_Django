@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10f17a4b-f20f-47c5-9b64-a6895696e10a" name="Changes" comment="&#10;Задание 18_4&#10;Добавлено приложение task4. Закоментированы все записи, связанные с task3. Добавлен стиль, шаблон для всех страниц, применен шаблон, использован цикл for для каталога товаров" />
+    <list default="true" id="10f17a4b-f20f-47c5-9b64-a6895696e10a" name="Changes" comment="&#10;Задание 18_4&#10;Исправлена ошибка. Изменен цвет кнопки">
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fifth_task/registration_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -181,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726056939721</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="&#10;Задание 18_4&#10;Исправлена ошибка. Изменен цвет кнопки">
+      <option name="closed" value="true" />
+      <created>1726057091923</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726057091923</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +222,7 @@
     <MESSAGE value="задание 18_2&#10;Добавлено приложение task2, папка templates с шаблонами для классового и функционального представления;&#10;Задание 18_3&#10;Добавлено приложение task3. Закоментированы все записи, связанные с task2. Сделан трехстраничный сайт" />
     <MESSAGE value="&#10;Задание 18_3&#10;Добавлено приложение task3. Закоментированы все записи, связанные с task2. Сделан трехстраничный сайт" />
     <MESSAGE value="&#10;Задание 18_4&#10;Добавлено приложение task4. Закоментированы все записи, связанные с task3. Добавлен стиль, шаблон для всех страниц, применен шаблон, использован цикл for для каталога товаров" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;Задание 18_4&#10;Добавлено приложение task4. Закоментированы все записи, связанные с task3. Добавлен стиль, шаблон для всех страниц, применен шаблон, использован цикл for для каталога товаров" />
+    <MESSAGE value="&#10;Задание 18_4&#10;Исправлена ошибка. Изменен цвет кнопки" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;Задание 18_4&#10;Исправлена ошибка. Изменен цвет кнопки" />
   </component>
 </project>
