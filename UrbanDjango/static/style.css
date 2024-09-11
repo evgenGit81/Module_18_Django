@@ -10,3 +10,7 @@ a {
 main {
     background: linear-gradient(blue, pink);
     }
+
+button {
+    background-color: green;
+}
